@@ -14,8 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-image: url(./design/IMG_2578.jpeg);
+  background-size: cover;
+  min-height: 400px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +27,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Header-image {
+  width: 40%;
+  height: auto;
 }
 
 @keyframes App-logo-spin {
