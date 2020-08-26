@@ -1,0 +1,1 @@
+Project with emekhahl - touring musicians can track other touring folk and get an alert when they'll be in the same city.
