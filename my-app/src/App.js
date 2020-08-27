@@ -1,10 +1,12 @@
 import React from 'react';
 import bus from './design/bus.jpg';
 import './App.css';
+import SignInSide from './SignInSide';
 
 function App() {
   return (
     <div className="App">
+      <SignInSide />
       <header className="App-header">
       </header>
       <body className="App-body">
