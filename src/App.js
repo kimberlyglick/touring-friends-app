@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
       </header>
       <body className="App-body">
-        <img src={bus} className="Header-image"/>
+        <img src={bus} alt="tour bus" className="Header-image"/>
           <h1>Tour Friends!</h1>
           <h2>...or Same City...</h2>
           <h3>...or any other name...</h3>
