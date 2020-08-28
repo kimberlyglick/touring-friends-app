@@ -1,3 +1,7 @@
+# Touring Friends App
+
+This project was created so that friends on tour could be notified when they are or will be in the same cities and connect! 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
