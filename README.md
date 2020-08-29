@@ -2,19 +2,19 @@
 
 This project was created so that friends on tour could be notified when they are or will be in the same cities and connect! 
 
-### Developing Locally
+## Developing Locally
 
-#####  React Front End ( client directory )
+###  React Front End ( client directory )
 
 To run the front end locally, 
 
-`cd ~/touring-friends-app/client`
+### `cd ~/touring-friends-app/client`
 
-#### `yarn install`
+### `yarn install`
 
 Updates your dependencies locally.<br />
 
-#### `yarn start`
+### `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -22,39 +22,39 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-####  Express GraphQL API ( server directory )
+###  Express GraphQL API ( server directory )
 
 To run the api locally, 
 
-`cd ~/touring-friends-app/server`
+### `cd ~/touring-friends-app/server`
 
-#### `npm install`
+### `npm install`
 
 Updates your dependencies locally.<br />
 
-#### `npm start`
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:4000](http://localhost:4000) to view your graphQL in the browser.<br />
 You will also see any errors in the console.
 
 
-# Dependencies
+## Dependencies
 * sqlite
 
 
-### More on React Front End
+## More on React Front End
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
-#### `yarn test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-#### `yarn build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -64,7 +64,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### `yarn eject`
+### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -80,27 +80,27 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-#### Code Splitting
+### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-#### Analyzing the Bundle Size
+### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-#### Making a Progressive Web App
+### Making a Progressive Web App
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-#### Advanced Configuration
+### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-#### Deployment
+### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-#### `yarn build` fails to minify
+### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
