@@ -3,7 +3,7 @@
   "description": "a really cool app to connect friends who are out on tour",
   "version": "0.1.0",
   "engines": {
-    "yarn": "1.19.1"
+    "yarn": "1.22.5"
   },
   "private": true,
   "dependencies": {
