@@ -4,6 +4,10 @@ This project was created so that friends on tour could be notified when they are
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Dependencies
+
+* sqlite
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -2,18 +2,24 @@
   "name": "touring-friends-api",
   "version": "1.0.0",
   "description": "an api that helps friends out on tour connect when they are in the same city",
-  "main": "index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon src/index.js",
+    "start:ci": "node src/index.js"
+  },
   "dependencies": {
     "apollo": "^2.30.3",
+    "apollo-datasource-rest": "^0.9.3",
     "apollo-server": "^2.17.0",
     "apollographql": "^0.0.1",
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
+    "isemail": "^3.2.0",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
-  },
-  "scripts": {
-    "test": "test"
   },
   "repository": {
     "type": "git",
