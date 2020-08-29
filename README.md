@@ -2,24 +2,17 @@
 
 This project was created so that friends on tour could be notified when they are or will be in the same cities and connect! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Developing Locally
 
-# Dependencies
+##  React Front End ( client directory )
 
-* sqlite
+To run the front end locally, 
 
-##  Express GraphQL API ( server directory )
+`cd ~/touring-friends-app/client`
 
-To run the api locally, 
+### `yarn install`
 
-`cd ~/touring-friends-app/server`
-
-`npm start`
-
-
-## Front End ( client directory )
-
-In the project directory, you can run:
+Updates your dependencies locally.<br />
 
 ### `yarn start`
 
@@ -28,6 +21,33 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+###  Express GraphQL API ( server directory )
+
+To run the api locally, 
+
+`cd ~/touring-friends-app/server`
+
+### `npm install`
+
+Updates your dependencies locally.<br />
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:4000](http://localhost:4000) to view your graphQL in the browser.<br />
+You will also see any errors in the console.
+
+
+# Dependencies
+* sqlite
+
+
+## More on React Front End
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
 
 ### `yarn test`
 
