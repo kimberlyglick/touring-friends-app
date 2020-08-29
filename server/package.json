@@ -1,17 +1,33 @@
 {
-  "dependencies": {
-    "express": "^4.17.1",
-    "express-graphql": "^0.11.0",
-    "graphql": "^15.3.0"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
   "name": "touring-friends-api",
   "version": "1.0.0",
-  "description": "an api that provides information on when friends on tour are in the same town",
-  "main": "server.js",
-  "devDependencies": {},
+  "description": "an api that helps friends out on tour connect when they are in the same city",
+  "main": "index.js",
+  "dependencies": {
+    "apollo": "^2.30.3",
+    "apollo-server": "^2.17.0",
+    "apollographql": "^0.0.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimberlyglick/touring-friends-app.git"
+  },
+  "keywords": [
+    "tour",
+    "concert",
+    "friends"
+  ],
   "author": "Kimberly Glick",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimberlyglick/touring-friends-app/issues"
+  },
+  "homepage": "https://github.com/kimberlyglick/touring-friends-app#readme"
 }
