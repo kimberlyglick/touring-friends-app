@@ -8,7 +8,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * sqlite
 
-## Available Scripts
+##  Express GraphQL API ( server directory )
+
+To run the api locally, 
+
+`cd ~/touring-friends-app/server`
+
+`npm start`
+
+
+## Front End ( client directory )
 
 In the project directory, you can run:
 
@@ -75,10 +84,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-# Express GraphQL API
-
-To run the api locally, 
-
-`cd ~/touring-friends-app/server/src`
-
-`node index.js`
