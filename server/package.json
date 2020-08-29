@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "graphql": "^15.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "touring-friends-api",
+  "version": "1.0.0",
+  "description": "an api that provides information on when friends on tour are in the same town",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Kimberly Glick",
+  "license": "ISC"
+}
